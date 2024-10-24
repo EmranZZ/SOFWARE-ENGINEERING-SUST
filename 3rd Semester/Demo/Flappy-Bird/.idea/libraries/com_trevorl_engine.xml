@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.trevorl.engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FlappyBird-main/FlappyBird-main/com.trevorl.engine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

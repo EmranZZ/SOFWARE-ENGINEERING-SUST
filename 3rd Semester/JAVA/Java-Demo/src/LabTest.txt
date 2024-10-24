@@ -1,0 +1,7 @@
+Design the class for the following scenario!
+
+Suppose you need to store Client information for a e-shop system.
+Every client has to be unique. Besides, you need to store some
+basic infos for further processing. Make sure that a client's unique
+data can't be altered. A client can have some bonus points. He can earn
+or withdraw points on a transaction!
