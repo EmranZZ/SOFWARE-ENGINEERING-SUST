@@ -1,0 +1,20 @@
+Operating system 
+Os element 
+Os design principle
+User-kernel
+System call flowchart 
+Os organisation/type
+Process
+State
+Process algorithm 
+Process control block,pcb
+Process life cycle 
+Process creation 
+Length of a Process 
+Usefull cpu work
+Inter process communication,ipc
+Thread 
+Mutual execution 
+Thread data structure 
+Mutex lock
+Dead lock
