@@ -1,0 +1,4 @@
+Q1: What are the main differences between horizontal ditribution and vertical distribution? 
+Q2: What are the faive basic goals of Distributed Systems? Discuss them. 
+Q3: Compare and Constrast Eventual Consistency with Sequencial Consistency. In which real world applications is each model more suitable?
+Q4: In what types of applications monotonic is reads consistency most essential, and how does it improve the user experience compared to eventual consistency? 

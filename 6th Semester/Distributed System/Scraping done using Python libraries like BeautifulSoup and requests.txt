@@ -1,0 +1,1 @@
+Scraping done using Python libraries like BeautifulSoup and requests
