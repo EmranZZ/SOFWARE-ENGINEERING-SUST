@@ -172,13 +172,6 @@ As this is a personal academic archive, direct contributions are currently not a
 - **Accuracy:** While efforts are made to ensure accuracy, materials are provided "as-is" without warranty of any kind.
 - **University Policies:** Users are responsible for compliance with SUST's academic policies and honor code.
 
----
-
-## 📜 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Note:** Individual course materials and third-party resources may be subject to their own licenses.
 
 ---
 
@@ -188,9 +181,9 @@ For questions, suggestions, or collaboration:
 
 - **University:** Shahjalal University of Science and Technology (SUST)
 - **Program:** BSc in Software Engineering
-- 📧 Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
+- 📧 Email: [emran40@student.sust.edu]
+- 🔗 LinkedIn: [www.linkedin.com/in/emranzz]
+- 🐙 GitHub: [https://github.com/EmranZZ]
 
 ---
 
